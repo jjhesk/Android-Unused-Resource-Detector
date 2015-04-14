@@ -6,3 +6,5 @@ Andround Unused Resources is a Java application that will scan your project for 
 To use it, ensure your working directory is the root of your Android project, and run:
 
 ```java -jar AndroidUnusedResources.jar```
+
+[DOWNLOAD THE COMPILED JAR FILE](https://github.com/jjhesk/AndroidUnusedResourceDetector/blob/master/AndroidUnusedResources1.6.2.jar)
